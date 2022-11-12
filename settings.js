@@ -13,7 +13,8 @@ global.APIKeys = {
 
 global.alivemsg = `𝐈'𝐦 𝐀𝐋𝐎𝐕𝐄 𝐍𝐨𝐰...
 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐉𝐨𝐢𝐧 𝐰𝐢𝐭𝐡 𝐔𝐬...
-❤️🥰` //Costomize Alive Message (type your message in `` )
+
+® 𝙵𝚛𝚘𝚖 𝙳𝚁𝙰𝙶𝙾𝙽 𝚃𝙴𝙰𝙼` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -37,7 +38,7 @@ global.socialm = "Instagram: Dragon Kingdom" // github or insta name
 global.location = "Sri Lanka, Western, Kaluthara, Bulathsinhala" // location
 
 //bot body 
-global.alivepic = `https://ibb.co/d72y7D4` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -53,8 +54,8 @@ global.ownertag = '+94755982430' //your tag number
 global.botname = 'ℜ𝔢𝔡 𝔇𝔯𝔞𝔤𝔬𝔫' //ur bot name
 global.packname = "DK stickers" // sticker packname
 global.author = "𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪" // sticker author
-global.dragonemoji = '☛' // Menu emoji
-global.footer = '[ 𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪 ]' //
+global.dragonemoji = '☬' // Menu emoji
+global.footer = '[ © 𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪 ]' //
 
 //database
 global.premium = ['+94755982430'] //ur premium numbers
@@ -62,7 +63,7 @@ global.premium = ['+94755982430'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','❖','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '⭕'
 global.mess = {
     success: 'Done ✅',
