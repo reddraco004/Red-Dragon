@@ -38,7 +38,7 @@ global.socialm = "Instagram: Dragon Kingdom" // github or insta name
 global.location = "Sri Lanka, Western, Kaluthara, Bulathsinhala" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://telegra.ph/file/77bd8c47b11e2e48739b8.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -54,7 +54,7 @@ global.ownertag = '+94755982430' //your tag number
 global.botname = 'ℜ𝔢𝔡 𝔇𝔯𝔞𝔤𝔬𝔫' //ur bot name
 global.packname = "DK stickers" // sticker packname
 global.author = "𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪" // sticker author
-global.dragonemoji = '☬' // Menu emoji
+global.dragonemoji = '㋡' // Menu emoji
 global.footer = '[ © 𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪 ]' //
 
 //database
