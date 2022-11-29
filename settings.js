@@ -11,10 +11,53 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `𝐈'𝐦 𝐀𝐋𝐎𝐕𝐄 𝐍𝐨𝐰...
-𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐉𝐨𝐢𝐧 𝐰𝐢𝐭𝐡 𝐔𝐬...
+global.alivemsg = `║
 
-® 𝙵𝚛𝚘𝚖 𝙳𝚁𝙰𝙶𝙾𝙽 𝚃𝙴𝙰𝙼` //Costomize Alive Message (type your message in `` )
+╠➤ 𝐈 𝐦 𝐀𝐋𝐈𝐕𝐄 𝐍𝐨𝐰...
+
+╠➤ 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬...
+
+║
+
+╠═ ❖ 𝐃𝐊 𝐀𝐃𝐌𝐈𝐍 𝐁𝐎𝐀𝐑𝐃
+
+║ ┃
+
+║ ┣ 𝘏𝘢𝘳𝘴𝘩𝘢𝘯𝘢 𝘒 𝘗𝘳𝘦𝘮𝘢𝘭𝘢𝘭
+
+║ ┣ 𝘊𝘩𝘢𝘮𝘢𝘵𝘩 𝘗𝘢𝘵𝘩𝘮𝘪𝘳𝘢
+
+║ ┣ 𝘚𝘩𝘢𝘯𝘶𝘬𝘢 𝘐𝘯𝘢𝘥𝘳𝘢𝘫𝘪𝘵𝘩
+
+║ ┣ 𝘈𝘣𝘩𝘪𝘮𝘢𝘯𝘪 𝘜𝘱𝘢𝘥𝘺𝘢
+
+║ ┣ 𝘓𝘢𝘩𝘪𝘳𝘶 𝘋𝘪𝘭𝘴𝘩𝘢𝘯
+
+║ ┣ 𝘙𝘢𝘴𝘪𝘯𝘥𝘶 𝘔𝘢𝘥𝘩𝘶𝘴𝘢𝘯𝘬𝘢
+
+║ ┣ 𝘊𝘩𝘢𝘮𝘪𝘯𝘥𝘶 𝘓𝘢𝘬𝘴𝘩𝘢𝘯
+
+║ ┗ 𝘓𝘢𝘴𝘩𝘪𝘯𝘪 𝘊𝘩𝘢𝘮𝘢𝘭𝘴𝘩𝘢
+
+║
+
+╟➣ Tiktok :- d_k_creat1ons
+
+╟➣ Instagram :- dragon_kingdom_1
+
+╟➣ Facebook :- Dragon Kingdom
+
+╟➣ Youtube :- Dragon Kingdom 
+
+║
+
+║
+
+║® 𝙵𝚛𝚘𝚖 𝙳𝚁𝙰𝙶𝙾𝙽 𝚃𝙴𝙰𝙼
+
+║
+
+╚═════════❍❍❍═════════` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -40,7 +83,7 @@ global.location = "Sri Lanka, Western, Kaluthara, Bulathsinhala" // location
 //bot body 
 global.alivepic = `https://telegra.ph/file/77bd8c47b11e2e48739b8.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
@@ -54,7 +97,7 @@ global.ownertag = '+94755982430' //your tag number
 global.botname = 'ℜ𝔢𝔡 𝔇𝔯𝔞𝔤𝔬𝔫' //ur bot name
 global.packname = "DK stickers" // sticker packname
 global.author = "𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪" // sticker author
-global.dragonemoji = '㋡' // Menu emoji
+global.dragonemoji = '☑' // Menu emoji
 global.footer = '[ © 𝔇𝔯𝔞𝔤𝔬𝔫 𝔎𝔦𝔫𝔤𝔡𝔬𝔪 ]' //
 
 //database
