@@ -52,7 +52,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94755982430'] // owner number
-global.ownername = "❮❮𝙃𝙖𝙧𝙨𝙝𝙖𝙣𝙖 𝙆 𝙋𝙧𝙚𝙢𝙖𝙡𝙖𝙡❯❯" // owner name
+global.ownername = "𝐇𝐚𝐫𝐬𝐡𝐚𝐧𝐚 𝐊 𝐏𝐫𝐞𝐦𝐚𝐥𝐚𝐥ツ" // owner name
 global.ytname = "Dragon Kingdom" // yt chanel name
 global.socialm = "Instagram: Dragon Kingdom" // github or insta name
 global.location = "Sri Lanka, Western, Kaluthara, Bulathsinhala" // location
@@ -328,7 +328,7 @@ global.rep = { // All Replies = 145
     K142: '🥺දුක් වෙන්න එපා ඉතිං❤️',
     K143: '🥺🥺😐',
     K144: '❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️',
-    K145: '🫡🫠🤝',
+    K145: '🫡🫠🤝'
     K146: '🎤දහසක් මල්🌸 විකසිත වන😊 මේ හිමිදිරි උදෑසනේ🌄 පතන්නම් ඔබ සැමට🙏 සුභම සුභ උදෑසනක් කියා...😃',
     K147: 'ලබන්නාවූ රාත්‍රිය හීනෙන් හොල්මන් පෙනෙන, මහ රෑ දාඩියෙන් තෙමී ඇහැරෙන, පෙරේතයන් ඇද යටට එන, කුම්භාණ්ඩයින් ජනෙල් වලින් එබී බලන, භයානක රාත්‍රියක් වේවා😂👻👻❤️'
     }
